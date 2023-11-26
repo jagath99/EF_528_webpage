@@ -1,0 +1,21 @@
+{
+    "team": [
+        {
+            "name": "Weerasingha W.A.C.J.",
+            "email": "e19423@eng.pdn.ac.lk",
+            "eNumber": "E/19/423"
+        },
+        {
+            "name": "Ekanayake E.M.M.U.B.",
+            "email": "e17083@eng.pdn.ac.lk",
+            "eNumber": "E/17/083"
+        }
+    ],
+    "supervisors": [
+        {
+            "name": "Dr. Kamalanath Samarakoon",
+            "email": "kamalanath@eng.pdn.ac.lk"
+        }
+    ],
+    "tags": ["FPGA","co227","Image Processing"]
+}
