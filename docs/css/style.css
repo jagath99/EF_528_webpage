@@ -1,6 +1,10 @@
-.video-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh; /* Adjust the height as needed */
-}
+ .portfolio {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+
+        iframe {
+            margin-top: 20px; /* Add some top margin to the iframe for spacing */
+        }
